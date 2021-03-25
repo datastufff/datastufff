@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @datastufff
 - 👀 I’m interested in what makes human beings awesome. 
 - 🌱 I’m currently learning to use R to run analyses on diverse datasets.
-- 💞️ I’m looking to collaborate on research and projects in wellbeing, sociology, psychology, neuroscience and philosophy. 
+- 💞️ I’m looking to collaborate on research and projects in wellbeing, human health, sociology, psychology, neuroscience. 
 - 📫 Reach me at hmesba.ame@gmail.com
 
 <!---
